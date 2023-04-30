@@ -1,3 +1,0 @@
-numpy==1.20.3
-scipy==1.6.3
-RPi.GPIO==0.7.0
